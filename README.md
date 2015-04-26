@@ -33,5 +33,5 @@ The output will be overwritten if the script runs more than once
 pointing to same output file location
 
 
-### Call function CreateDataSet(<UnzipPath>,[<OutputFileLocation>])
+### Call function CreateDataSet(UnzipPath,[OutputFileLocation])
 after sourcing the script "run_analysis.R"
